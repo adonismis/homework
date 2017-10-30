@@ -17,13 +17,13 @@
 * Bootstrap 與 Sass
 
 ## [流程]
-1.SOP
+1. SOP
  * learn class
  * create github & netes Markdown
  * wirte program
  * update github
  * making teaching
-2.github
+2. github
  * git clone https://github.com/....
  * git add .
    git commit -m "..."
