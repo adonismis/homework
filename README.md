@@ -6,10 +6,10 @@
   * 形象首頁版型介紹
   * 後台版型介紹
   * 購物網站介面
+* VueJs
+ * Firebase 聊天室 
 * Laravel
-  *
-  *
-  *
+  * blog
 
 ## [筆記]
 * github
