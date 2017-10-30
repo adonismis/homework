@@ -19,7 +19,7 @@
 ## [流程]
 1. SOP
  * learn class
- * create github & netes Markdown
+ * notes (create github & netes Markdown)
  * wirte program
  * update github
  * making teaching
